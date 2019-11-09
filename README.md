@@ -17,6 +17,6 @@ Most of the problem comes down to solving three requirements:
 * Working with a really big BUFF_SIZE
 * Learning how to use `static` variables
 
-### BONUS PART
+### Bonus Part
 
 You get the bonus if you implement the ability to handle `multiple file descriptors` and if you use only `one static variable`.
