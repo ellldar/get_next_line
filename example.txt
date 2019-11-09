@@ -1,0 +1,8 @@
+hello world!
+this is just a test file
+this is the second project we are supposed to do as cadets
+allowed functions are read, malloc and free
+apparently the lseek function is not allowed
+so I had to rewrite this code all over again
+it supports multiple file descriptors
+this is the end of file
